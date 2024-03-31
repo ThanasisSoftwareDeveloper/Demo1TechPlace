@@ -1,0 +1,28 @@
+.container{
+    background-color:#0061f2;
+    
+}
+
+.nav-link{
+    color: lightgray;
+
+}
+
+.nav-link:hover{
+    color: white;
+}
+.page-header-ui-title{
+    color: white;
+}
+
+.page-header-ui-text{
+    color: lightgray;
+}
+
+.btn-teal{
+    color: white;
+}
+
+#LearnMore{
+    color: white;
+}
